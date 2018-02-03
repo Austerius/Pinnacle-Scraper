@@ -1,0 +1,5 @@
+.idea
+*iml
+geckodriver.log
+*json
+__pycache__
